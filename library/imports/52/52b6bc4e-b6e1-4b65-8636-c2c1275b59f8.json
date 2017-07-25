@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shoot_background.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "background": {
+      "__uuid__": "21ab00d1-178a-4ac2-ba2a-032f0f8bbe7b"
+    },
+    "btn_finish": {
+      "__uuid__": "a0848ad6-7737-4bed-941f-0967a6cfbf8d"
+    },
+    "game_loading1": {
+      "__uuid__": "8d917615-d6b2-45f9-922e-0a51173bcb02"
+    },
+    "game_loading2": {
+      "__uuid__": "10f90b01-34f0-4f8a-aabe-2b73e25aec2e"
+    },
+    "game_loading3": {
+      "__uuid__": "52a3d043-c16d-416b-8574-01c8ac9ed923"
+    },
+    "game_loading4": {
+      "__uuid__": "d8c4024c-a38d-431e-8694-271f243f5984"
+    },
+    "gameover": {
+      "__uuid__": "c5d55a51-1df8-4462-bad5-cd13280d182b"
+    },
+    "shoot_copyright": {
+      "__uuid__": "dc395799-2e0e-4a7d-b0d2-e191742f3266"
+    }
+  }
+}

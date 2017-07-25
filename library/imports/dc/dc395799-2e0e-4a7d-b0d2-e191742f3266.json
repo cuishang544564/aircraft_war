@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shoot_copyright",
+    "texture": "4e5b22eb-be6b-4c6a-9779-0ea81e8708b2",
+    "atlas": "52b6bc4e-b6e1-4b65-8636-c2c1275b59f8",
+    "rect": [
+      2,
+      1710,
+      429,
+      189
+    ],
+    "offset": [
+      -1,
+      -15
+    ],
+    "originalSize": [
+      441,
+      225
+    ]
+  }
+}

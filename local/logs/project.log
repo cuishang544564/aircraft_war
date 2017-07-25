@@ -1,0 +1,57 @@
+2017-07-20T08:28:02.397Z - normal: Load ~/.CocosCreator/settings.json
+2017-07-20T08:28:02.401Z - normal: checking language setting...
+2017-07-20T08:28:02.401Z - normal: Language: zh
+2017-07-20T08:28:02.732Z - success: protocol editor-framework registered
+2017-07-20T08:28:02.732Z - success: protocol app registered
+2017-07-20T08:28:02.732Z - success: protocol theme registered
+2017-07-20T08:28:02.732Z - success: protocol profile registered
+2017-07-20T08:28:02.732Z - success: protocol packages registered
+2017-07-20T08:28:02.735Z - success: protocol unpack registerred
+2017-07-20T08:28:02.735Z - success: protocol disable-commonjs registerred
+2017-07-20T08:28:02.961Z - normal: connected!
+2017-07-20T08:28:02.963Z - normal: Check project /Users/shancui/GitHub/aircraft_war
+2017-07-20T08:28:02.964Z - normal: Initializing Cocos2d
+2017-07-20T08:28:03.109Z - normal: Initializing Asset Database
+2017-07-20T08:28:03.136Z - success: protocol uuid registerred
+2017-07-20T08:28:03.136Z - success: protocol db registerred
+2017-07-20T08:28:03.136Z - success: protocol thumbnail registerred
+2017-07-20T08:28:03.136Z - normal: Loading editor/builtin packages
+2017-07-20T08:28:03.154Z - success: anysdk loaded
+2017-07-20T08:28:03.284Z - success: assets loaded
+2017-07-20T08:28:03.287Z - success: builder loaded
+2017-07-20T08:28:03.291Z - success: hierarchy loaded
+2017-07-20T08:28:03.295Z - success: inspector loaded
+2017-07-20T08:28:03.296Z - success: keystore loaded
+2017-07-20T08:28:03.300Z - success: node-library loaded
+2017-07-20T08:28:03.303Z - success: package-asset loaded
+2017-07-20T08:28:03.305Z - success: preferences loaded
+2017-07-20T08:28:03.319Z - success: project-importer loaded
+2017-07-20T08:28:03.322Z - success: project-settings loaded
+2017-07-20T08:28:03.325Z - success: ui-kit loaded
+2017-07-20T08:28:03.330Z - success: ui-grid loaded
+2017-07-20T08:28:03.333Z - success: scene loaded
+2017-07-20T08:28:03.335Z - success: sprite-editor loaded
+2017-07-20T08:28:03.339Z - success: store loaded
+2017-07-20T08:28:03.343Z - success: timeline loaded
+2017-07-20T08:28:03.343Z - normal: Loading builtin packages
+2017-07-20T08:28:03.348Z - success: asset-db-debugger loaded
+2017-07-20T08:28:03.349Z - success: code-editor loaded
+2017-07-20T08:28:03.350Z - success: color-picker loaded
+2017-07-20T08:28:03.354Z - success: console loaded
+2017-07-20T08:28:03.357Z - success: package-manager loaded
+2017-07-20T08:28:03.361Z - success: sdkbox loaded
+2017-07-20T08:28:03.365Z - success: tester loaded
+2017-07-20T08:28:03.372Z - success: ui-kit-preview-extra loaded
+2017-07-20T08:28:03.376Z - success: ui-kit-preview loaded
+2017-07-20T08:28:03.379Z - success: ui-tree loaded
+2017-07-20T08:28:04.160Z - normal: Initializing project /Users/shancui/GitHub/aircraft_war
+2017-07-20T08:28:04.163Z - normal: Loading packages
+2017-07-20T08:28:04.167Z - normal: Watching packages
+2017-07-20T08:28:04.179Z - normal: Run Application
+2017-07-20T08:28:04.854Z - success: preview server running at http://localhost:7457
+2017-07-20T08:28:09.071Z - normal: 1.5.2
+2017-07-20T09:17:02.657Z - normal: Compiled project javascript file successfully
+2017-07-20T09:17:22.183Z - normal: Compiled project javascript file successfully
+2017-07-20T09:18:49.261Z - normal: Compiled project javascript file successfully
+2017-07-20T09:18:51.032Z - normal: Compiled project javascript file successfully
+2017-07-20T09:29:07.284Z - normal: Compiled project javascript file successfully

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/Script/globals.js"],"names":["window","D","common","commonInfo"],"mappings":";;;;;;AAAA;AACAA,OAAOC,CAAP,GAAW;AACP;AACAC,YAAQ,IAFD,EAEO;AACdC,gBAAY,IAHL,EAAX","file":"unknown","sourcesContent":["// declare global variable \"D\"\nwindow.D = {\n    // singletons\n    common: null, //公共方法\n    commonInfo: null, //定义的一些常量\n};"]}
